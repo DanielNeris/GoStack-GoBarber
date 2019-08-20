@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "src/server.js",
+  "main": "src/app.js",
   "license": "MIT",
   "scripts": {
     "start": "node src/server.js",
@@ -12,6 +12,12 @@
     "sucrase": "^3.10.1"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1"
+    "eslint": "^6.2.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "nodemon": "^1.19.1",
+    "prettier": "^1.18.2"
   }
 }
