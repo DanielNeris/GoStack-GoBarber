@@ -22,6 +22,14 @@ class UserController {
       return res.status(400).json(error);
     }
   }
+
+  async update(req, res) {
+    try {
+      return res.json({ ok: true });
+    } catch (error) {
+      return res.status(400).json(error);
+    }
+  }
 }
 
 export default new UserController();
