@@ -7,7 +7,7 @@ module.exports = {
         autoIncrement: true,
         primaryKey: true,
       },
-      data: {
+      date: {
         type: Sequelize.DATE,
         allowNull: false,
       },
