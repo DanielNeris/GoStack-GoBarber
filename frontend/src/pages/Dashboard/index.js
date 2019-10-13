@@ -1,9 +1,18 @@
 import React, { useState, useMemo, useEffect } from 'react';
-import { format, subDays, addDays, setHours, setMinutes, setSeconds, isBefore, isEqual, parseISO } from 'date-fns';
+import {
+  format,
+  subDays,
+  addDays,
+  setHours,
+  setMinutes,
+  setSeconds,
+  isBefore,
+  isEqual,
+  parseISO,
+} from 'date-fns';
 import { utcToZonedTime } from 'date-fns-tz';
 import pt from 'date-fns/locale/pt';
 import { MdChevronLeft, MdChevronRight } from 'react-icons/md';
-
 import api from '~/services/api';
 
 import { Container, Time } from './styles';
@@ -24,8 +33,6 @@ export default function Dashboard() {
       const response = await api.get('schedule', {
         params: { date },
       });
-
-      console.log(response.data)
 
       const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
 
@@ -60,11 +67,11 @@ export default function Dashboard() {
     <Container>
       <header>
         <button type="button" onClick={handlePrevDay}>
-          <MdChevronLeft color="#fff" size={36} />
+          <MdChevronLeft size={36} color="#FFF" />
         </button>
         <strong>{dateFormatted}</strong>
         <button type="button" onClick={handleNextDay}>
-          <MdChevronRight color="#fff" size={36} />
+          <MdChevronRight size={36} color="#FFF" />
         </button>
       </header>
 
