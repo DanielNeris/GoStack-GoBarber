@@ -1,14 +1,16 @@
 <h1 align="center">
-    An application for scheduling time in barber shops. <br />
+     <br />
 </h1>
 
 <p align="center">
   <a href="#rocket-technology">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
-<h4 align="center"></h4>
+## 💻 Project
+
+The GoBarber is an application for scheduling time in barber shops. 
 
 ## :rocket: Technology
 
