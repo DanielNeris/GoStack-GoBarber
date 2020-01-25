@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Aircnc" title="#delicinha" src=".github/logo.png" width="250px" />
+    <img alt="GoBarber" title="#delicinha" src=".github/logo.png" width="250px" />
 </h1>
 
 <h4 align="center">
-  ☕ Code and coffee
+  ☕ javascript, assemble.
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-9.svg">
@@ -33,17 +33,11 @@ The GoBarber is an application for scheduling time in barber shops.
 
 ## :rocket: Technology
 
--  [Node.js](https://nodejs.org/en/)
--  [ReactJS](https://reactjs.org/)
--  [Express](https://expressjs.com/)
--  [Redux](https://redux.js.org/)
--  [nodemon](https://github.com/remy/nodemon)
--  [MongoDB](https://mongodb.com)
--  [Mongoose](https://mongoosejs.com/)
--  [Multer](https://github.com/expressjs/multer)
--  [Cors](https://github.com/expressjs/cors)
--  [axios](https://github.com/axios/axios)
--  [VS Code][vc]
+This project was developed with the following technologies:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
 
 ## :information_source: How to use
 
