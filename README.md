@@ -12,6 +12,12 @@
   <a href="#memo-license">License</a>
 </p>
 
+<br>
+
+<p align="center">
+  <img alt="Frontend" src=".github/aircnc.png" width="100%">
+</p>
+
 ## 💻 Project
 
 The GoBarber is an application for scheduling time in barber shops. 
