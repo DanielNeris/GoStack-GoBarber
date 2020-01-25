@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoBarber" title="#delicinha" src="https://github.com/DanielNeris/GoStack-GoBarber/blob/master/frontend/src/assets/logo-purple.svg" width="100px" />
+    <img alt="GoBarber" title="#delicinha" src="frontend/assets/logo-purple.svg" width="100px" />
 </h1>
 
 <h4 align="center">
