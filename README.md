@@ -7,8 +7,8 @@
 ## :rocket: Technology
 
 Esse projeto foi construído através da [Semana OmmniStack 6.0, da Rocketseat](https://rocketseat.com.br) com as seguintes tecnologias:
--  [Node.js][https://nodejs.org/en/]
--  [ReactJS][https://reactjs.org/]
+-  [Node.js](https://nodejs.org/en/)
+-  [ReactJS](https://reactjs.org/)
 -  [Express](https://expressjs.com/)
 -  [Redux](https://redux.js.org/)
 -  [nodemon](https://github.com/remy/nodemon)
@@ -26,14 +26,21 @@ Para clonar e rodar essa aplicação, você precisará do [Git](https://git-scm.
 Através de linha de comando:
 
 ```bash
-# Clone esse repositório
-$ git clone https://github.com/lucaslombardif/backend-rocketbox.git
-# Vá até o diretório clonado
-$ cd backend-rocketbox
-# Instale as dependências
-$ yarn 
-# Inicie o servidor backend
+# Clone this repositori
+$ git clone https://github.com/DanielNeris/GoStack-GoBarber.git
+# Go to backend
+$ cd backend
+# Install dependences
+$ yarn install
+# Start the servidor
 $ yarn dev
+# Exit backend
+$ cd ..
+# Go to frontend
+# Install dependences
+$ yarn install
+# Start the frontend
+$ yarn start
 ```
 
 [nodejs]: https://nodejs.org/
