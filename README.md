@@ -35,9 +35,9 @@ This project was developed with the following technologies:
 
 ## :information_source: How to use
 
-Para clonar e rodar essa aplicação, você precisará do [Git](https://git-scm.com), [Node.js][nodejs] e [Yarn][yarn] instalados em seu computador.
+To clone and run this application, you will need [Git](https://git-scm.com), [Node.js][nodejs] e [Yarn][yarn] installed on your computer.
 
-Através de linha de comando:
+Through command line:
 
 ```bash
 # Clone this repositori
