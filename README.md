@@ -15,7 +15,11 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/aircnc.png" width="100%">
+  <img 
+       alt="Frontend" 
+       src="https://github.com/DanielNeris/portifolio/blob/master/src/assets/projects/gobarber.jpg" 
+       width="100%"
+  />
 </p>
 
 ## 💻 Project
