@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoBarber" title="#delicinha" src="frontend/assets/logo-purple.svg" width="100px" />
+    <img alt="GoBarber" title="#delicinha" src="frontend/src/assets/logo-purple.svg" width="100px" />
 </h1>
 
 <h4 align="center">
