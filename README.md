@@ -1,17 +1,8 @@
 <h1 align="center">
-    <img alt="RocketBox" src="https://github.com/lucaslombardif/frontend-rocketbox/blob/master/src/assets/logo.svg?sanitize=true" />
-    <br>
     An application for scheduling time in barber shops. <br />
 </h1>
 
-<h4 align="center">
-
-</h4>
-
-<p align="center">
-  <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">Como usar</a>
-</p>
+<h4 align="center"></h4>
 
 ## :rocket: Tecnologias
 
