@@ -37,7 +37,6 @@ This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
 
 ## :information_source: How to use
 
@@ -67,3 +66,11 @@ $ yarn start
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
 [vc]: https://code.visualstudio.com/
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+
+---
+
+Made with ♥ by Daniel
