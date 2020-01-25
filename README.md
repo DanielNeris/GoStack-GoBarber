@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="RocketBox" src="https://github.com/lucaslombardif/frontend-rocketbox/blob/master/src/assets/logo.svg?sanitize=true" />
     <br>
-    Backend da aplicação Rocketbox, uma simples cópia do Dropbox. <br />
+    An application for scheduling time in barber shops. <br />
 </h1>
 
 <h4 align="center">
