@@ -6,7 +6,6 @@
 
 ## :rocket: Technology
 
-Esse projeto foi construído através da [Semana OmmniStack 6.0, da Rocketseat](https://rocketseat.com.br) com as seguintes tecnologias:
 -  [Node.js](https://nodejs.org/en/)
 -  [ReactJS](https://reactjs.org/)
 -  [Express](https://expressjs.com/)
@@ -37,6 +36,7 @@ $ yarn dev
 # Exit backend
 $ cd ..
 # Go to frontend
+$ cd frontend
 # Install dependences
 $ yarn install
 # Start the frontend
