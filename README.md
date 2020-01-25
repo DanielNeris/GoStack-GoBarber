@@ -24,7 +24,7 @@
 <p align="center">
   <a href="#rocket-technology">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licence">Licença</a>
 </p>
 
 ## 💻 Project
@@ -69,7 +69,7 @@ $ yarn start
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
 
 ---
 
